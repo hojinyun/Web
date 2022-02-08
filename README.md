@@ -4,7 +4,7 @@ This repository is for studying web programming. It contains study documents wit
 
 ## Table of Contents
 
-- [Maintainer](#maintainer)
+- [Maintainer](#Maintainer)
 - [Credits](#Credits)
 - [Contributing](#Contributing)
 - [License](#License)
