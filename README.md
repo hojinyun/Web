@@ -26,4 +26,4 @@ No requirement for contributing unless completely unreasonable.
 
 ## License
 
-[MIT © Richard McRichface.](../LICENSE)
+[MIT © Richard McRichface.]
